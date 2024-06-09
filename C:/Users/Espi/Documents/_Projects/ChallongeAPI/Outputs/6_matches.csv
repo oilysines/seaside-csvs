@@ -1,0 +1,20 @@
+Not So Biweekly #2
+mike$$,0,2,ToonLinkMasta
+Perci,1,2,oilysines
+Tendrii,2,0,mike$$
+Hoshikage,2,1,[REDACTED]
+Prominence,2,0,Perci
+Sunset,2,1,KnuX
+Tendrii,3,2,Hoshikage
+Sunset,2,3,Prominence
+Tendrii,3,1,Sunset
+KnuX,2,1,ToonLinkMasta
+[REDACTED],2,0,oilysines
+KnuX,0,2,Perci
+[REDACTED],0,2,mike$$
+KnuX,2,3,Hoshikage
+Prominence,3,2,[REDACTED]
+Prominence,0,3,KnuX
+Sunset,3,2,Prominence
+Sunset,1,3,Tendrii
+Tendrii,0,3,Sunset
